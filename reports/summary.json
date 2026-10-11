@@ -1,0 +1,18 @@
+﻿{
+    "run_name":  "gps_kiss_demo_20261010T065718_20272",
+    "interval_s":  [
+                       0,
+                       599.991781259
+                   ],
+    "source_clouds":  2994,
+    "matched_poses":  2994,
+    "gps_fixes":  600,
+    "map_points":  144874377,
+    "map_chunks":  16,
+    "gps_raw_horizontal_distance_m":  1131.8838424444079,
+    "kiss_horizontal_distance_m":  1081.9940952420779,
+    "holdout_horizontal_rmse_m":  9.1961280836409038,
+    "alignment":  "Display-only 2D yaw and translation fit on first half; second half held out",
+    "caveat":  "GPS is not fused into KISS; neither estimate is ground truth. Cross-sensor timing is approximate.",
+    "gps_origin":  "Removed from this public summary."
+}

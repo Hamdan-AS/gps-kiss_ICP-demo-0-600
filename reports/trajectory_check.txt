@@ -1,0 +1,7 @@
+poses=2994 duration_s=599.600 max_gap_s=0.600 max_step_m=1.349
+PASS 8 finite columns
+PASS timestamps strictly increasing
+PASS duration sufficient
+PASS maximum gap within limit
+PASS maximum step within limit
+PASS quaternions normalized

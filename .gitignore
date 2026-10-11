@@ -1,0 +1,7 @@
+﻿# Keep bulky or location-revealing raw recordings and maps out of this public export.
+*.db3
+*.mcap
+*.pcd
+*.bag
+*.bag2
+

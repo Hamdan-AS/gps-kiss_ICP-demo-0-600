@@ -1,0 +1,15 @@
+﻿{
+    "pass":  true,
+    "bag_counts":  {
+                       "/fix":  600,
+                       "/gps/path":  600,
+                       "/kiss/map_chunks":  16,
+                       "/kiss/odometry":  2994,
+                       "/kiss/path":  2994
+                   },
+    "map_point_total":  144874377,
+    "map_chunk_timestamps_strict":  true,
+    "kiss_odometry_integrity":  "pass",
+    "fit_holdout_metrics_present":  true,
+    "gps_coordinates_included":  false
+}

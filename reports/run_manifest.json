@@ -1,0 +1,16 @@
+﻿{
+    "method":  "KISS-ICP",
+    "run_name":  "gps_kiss_demo_20261010T065718_20272",
+    "input_bag":  "data/sampled_bag (workspace-relative)",
+    "config":  "config/kiss_icp.yaml (workspace-relative)",
+    "interval_s":  [
+                       0,
+                       599.991781259
+                   ],
+    "input_topic":  "/rslidar_points",
+    "imu_used":  false,
+    "gps_policy":  "Independent ENU comparison; not fused into KISS",
+    "pose_count":  2994,
+    "source_revision":  "b16835283aee62f7d5e2bdf6c1c3bb2930de74ff",
+    "note":  "Host paths, CPU affinity, and memory limits omitted from this portable manifest."
+}
